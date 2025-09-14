@@ -1,0 +1,51 @@
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.main {
+  min-height: 80vh;
+}
+
+.title {
+  font-size: 3rem;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.description {
+  font-size: 1.25rem;
+  text-align: center;
+  color: #555;
+  margin-bottom: 4rem;
+}
+
+.section {
+  margin-bottom: 3rem;
+}
+
+.section h2 {
+  font-size: 2rem;
+  border-bottom: 2px solid #0070f3;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.timelineItem {
+  margin-bottom: 1.5rem;
+}
+
+.timelineItem h3 {
+  margin-bottom: 0.5rem;
+}
+
+.valuesList {
+  list-style-position: inside;
+  padding-left: 0;
+}
+
+.valuesList li {
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}

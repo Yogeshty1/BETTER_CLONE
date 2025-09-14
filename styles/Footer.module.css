@@ -1,0 +1,17 @@
+.footer {
+  width: 100%;
+  padding: 2rem 0;
+  border-top: 1px solid #eaeaea;
+  background-color: #fafafa;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  color: #888;
+}
+
+.container p {
+    margin: 0.25rem 0;
+}
